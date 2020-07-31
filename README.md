@@ -1,5 +1,7 @@
 # EESG Embedded Engineer study guide 嵌入式工程师学习指南
----
+
+
+
 ## **嵌入式书籍推荐**
 
 **Linux基础**
@@ -24,15 +26,15 @@
 **英语基础**
 1、《计算机与通信专业英语》
 **系统教程**
-1、《嵌入式系统体系结构、编程与设计》
-2、《嵌入式系统采用公开源代码和StrongARM/Xscale处理器》毛德操 胡希明着
+1、《嵌入式系统――体系结构、编程与设计》
+2、《嵌入式系统――采用公开源代码和StrongARM/Xscale处理器》毛德操 胡希明着
 3、《Building Embedded Linux Systems》
 4、《嵌入式ARM系统原理与实例开发》 杨宗德著
 **理论基础**
 1、《算法导论》
 2、《数据结构（C语言版）》
 3、《计算机组织与体系结构?性能分析》
-4、《深入理解计算机系统》【美】Randal E. Bryant David O'Hallaron著
+4、《深入理解计算机系统》【美】Randal E. Bryant David O’'Hallaron著
 5、《操作系统：精髓与设计原理》
 6、《编译原理》
 7、《数据通信与计算机网络》
@@ -44,8 +46,9 @@
 2. Pointers on C 《Ｃ和指针》
 3. C traps and pitfalls 《Ｃ陷阱与缺陷》
 4. Expert C Lanuage 《专家Ｃ编程》
-5. Writing Clean Code -----Microsoft Techiniques for Developing Bug-free C Programs  《编程精粹Microsoft 编写优质无错Ｃ程序秘诀》
+5. Writing Clean Code -----Microsoft Techiniques for Developing Bug-free C Programs
+   《编程精粹–Microsoft 编写优质无错Ｃ程序秘诀》
 6. Programming Embedded Systems in C and C++ 《嵌入式系统编程》
-7.《C语言嵌入式系统编程修炼》
-8.《高质量C++/C编程指南》林锐
-尽可能多的编码，要学好C，不能只注重C本身。算法，架构方式等都很重要。
+   7.《C语言嵌入式系统编程修炼》
+   8.《高质量C++/C编程指南》林锐
+   尽可能多的编码，要学好C，不能只注重C本身。算法，架构方式等都很重要。
