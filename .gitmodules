@@ -1,0 +1,6 @@
+[submodule "Grammer"]
+	path = Grammer
+	url = git@github.com:ly7799/CLanguage.git
+[submodule "Study_Course"]
+	path = Study_Course
+	url = https://github.com/bootlin/training-materials/
