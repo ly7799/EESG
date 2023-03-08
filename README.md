@@ -7,16 +7,22 @@
 **Linux基础**
 ---
 1、《Linux与Unix Shell 编程指南》
+
+
 **C语言基础**
 ---
 1、《C Primer Plus，5th Edition》【美】Stephen Prata着
 2、《The C Programming Language, 2nd Edition》【美】Brian W. Kernighan David M. Rithie（K & R）着
 3、《Advanced Programming in the UNIX Environment，2nd Edition》（APUE）
 4、《嵌入式Linux应用程序开发详解》
+
+
 **Linux内核**
 ---
 1、《深入理解Linux内核》（第三版）
 2、《Linux内核源代码情景分析》毛德操 胡希明著
+
+
 **研发方向**
 ---
 1、《UNIX Network Programming》（UNP）
@@ -24,10 +30,14 @@
 3、《Linux内核编程》
 4、《Linux设备驱动开发》（LDD）
 5、《Linux高级程序设计》 杨宗德著
+
+
 **硬件基础**
 ---
 1、《ARM体系结构与编程》杜春雷着
 2、S3C2410 Datasheet
+
+
 **英语基础**
 ---
 1、《计算机与通信专业英语》
